@@ -6,7 +6,7 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    url: jdbc:mysql://localhost:3306/admin_service
+    url: jdbc:mysql://localhost:3306/user_service
     username: root
     password: root
   
